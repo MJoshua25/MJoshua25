@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **Some stats:**
 
 <a href="https://github.com/MJoshua25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MJoshua25&show_icons=true&include_all_commits=true&theme=dark" alt="steph's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MJoshua25&show_icons=true&include_all_commits=true&theme=dark" alt="MJoshua's github stats" />
 </a>
 <a href="https://github.com/MJoshua25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJoshua25&layout=compact&theme=dark" />
