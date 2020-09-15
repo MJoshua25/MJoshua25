@@ -21,19 +21,10 @@ Here are some ideas to get you started:
 
 **Some stats:**
 
-<a href="https://github.com/stephsalou">
+<a href="https://github.com/MJoshua25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MJoshua25&show_icons=true&include_all_commits=true&theme=dark" alt="steph's github stats" />
 </a>
-<a href="https://github.com/stephsalou">
+<a href="https://github.com/MJoshua25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJoshua25&layout=compact&theme=dark" />
 </a>
 
-<a href="https://github.com/stephsalou/db_query">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MJoshua25&repo=db_query&theme=radical" />
-</a>    
-<a href="https://github.com/stephsalou/MonFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MJoshua25&repo=MonFramework&theme=radical" />
-</a>
-<a href="https://github.com/stephsalou/nuxt-nest-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MJoshua25&repo=nuxt-nest-template&theme=blue-green" />
-</a>
