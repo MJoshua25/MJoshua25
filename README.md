@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MJoshua25&show_icons=true&count_private=true&theme=dark" alt="MJoshua's github stats" />
 </a>
 <a href="https://github.com/MJoshua25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJoshua25&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJoshua25&layout=compact&theme=dark" />
 </a>
 
