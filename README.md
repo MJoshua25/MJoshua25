@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on many school and private projects
-- 🌱 I’m currently learning django, python, Javascript, Flutter & VueJs
+- 🔭 I’m currently working on some private projects
+- 🌱 I’m currently working with django, python, Javascript, Flutter & VueJs
 - 👯 I’m looking to collaborate on a lot of things
 - 💬 Ask me about anything [here](https://github.com/MJoshua25/MJoshua25/issues)
 - 📫 How to reach me: [my mail](mailto:jyao2000@yahoo.fr)
